@@ -12,13 +12,13 @@ R is a programming language and software environment for statistical computing a
 
 ## Why learning R is important?
 
-1. Learning R is important for several reasons:
-2. Data analysis: R is widely used for data analysis and statistical modeling, and is particularly well-suited for tasks such as data visualization and data manipulation.
-3. Active community: R has a large and active user community, which has developed a wide variety of packages and libraries for data manipulation, machine learning, and other tasks.
-4. Open-source: R is open-source software, which means it is free to use and can be modified to suit specific needs.
-5. Career opportunity: R is used by data scientists, statisticians, and data analysts in a wide range of fields, including finance, healthcare, marketing, and technology. Knowledge of R can be an asset in these fields, as it is a powerful tool for data analysis and visualization.
-6. Integration: R can be easily integrated with other programming languages, such as Python, and can be used in conjunction with other tools, such as Hadoop and Spark, for large-scale data analysis.
-7. Reproducibility: R’s syntax and data-handling functions make it easy to document and share the steps of an analysis, making it easy to reproduce the results.
+Learning R is important for several reasons:
+1. Data analysis: R is widely used for data analysis and statistical modeling, and is particularly well-suited for tasks such as data visualization and data manipulation.
+2. Active community: R has a large and active user community, which has developed a wide variety of packages and libraries for data manipulation, machine learning, and other tasks.
+3. Open-source: R is open-source software, which means it is free to use and can be modified to suit specific needs.
+4. Career opportunity: R is used by data scientists, statisticians, and data analysts in a wide range of fields, including finance, healthcare, marketing, and technology. Knowledge of R can be an asset in these fields, as it is a powerful tool for data analysis and visualization.
+5. Integration: R can be easily integrated with other programming languages, such as Python, and can be used in conjunction with other tools, such as Hadoop and Spark, for large-scale data analysis.
+6. Reproducibility: R’s syntax and data-handling functions make it easy to document and share the steps of an analysis, making it easy to reproduce the results.
 
 
 
