@@ -1,7 +1,9 @@
 # R
 R Coding Learning From Here
 
-![r](https://user-images.githubusercontent.com/58988171/213847985-e0f5b2a4-ffd6-40e5-b23b-3fa89c5ba64e.png)
+<p align="center">
+ <img src="Images/r.png" width="200"  />
+</p>
 
 ## What is R in programming language?
 
